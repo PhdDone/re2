@@ -26,7 +26,7 @@ NMFLAGS?=-p
 
 # Variables mandated by GNU, the arbiter of all good taste on the internet.
 # http://www.gnu.org/prep/standards/standards.html
-prefix=/usr/local
+prefix=/home/ydong/re2
 exec_prefix=$(prefix)
 includedir=$(prefix)/include
 libdir=$(exec_prefix)/lib
